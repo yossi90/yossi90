@@ -2,6 +2,7 @@
 
 ## I'm a beginner QA Engineer and Python Developer
 
+---
 ### My CV:
 
 [Link to my CV](https://github.com/artichokeee/artichokeee)
@@ -11,17 +12,17 @@
 
 
 ![Postman](https://img.shields.io/badge/-Postman-E4E2E2?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Jira](https://img.shields.io/badge/-Jira-E4E2E2?style=for-the-badge&logo=jira&logoColor=FF6C37)
-![Swagger](https://img.shields.io/badge/-SWAGGER-E4E2E2?style=for-the-badge&logo=swagger&logoColor=FF6C37)
-![Python](https://img.shields.io/badge/-Python-E4E2E2?style=for-the-badge&logo=python&logoColor=FF6C37)
-![TestRail](https://img.shields.io/badge/-TestRail-E4E2E2?style=for-the-badge&logo=testrail&logoColor=FF6C37)
-![DevTools](https://img.shields.io/badge/-DevTools-E4E2E2?style=for-the-badge&logo=googlechrome&logoColor=FF6C37)
-![MySQL](https://img.shields.io/badge/-MtSQL-E4E2E2?style=for-the-badge&logo=mysql&logoColor=FF6C37)
-![Git](https://img.shields.io/badge/-Git-E4E2E2?style=for-the-badge&logo=git&logoColor=FF6C37)
-![GitHUB](https://img.shields.io/badge/-GitHUB-E4E2E2?style=for-the-badge&logo=github&logoColor=FF6C37)
-![Docker](https://img.shields.io/badge/-Docker-E4E2E2?style=for-the-badge&logo=docker&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/-Figma-E4E2E2?style=for-the-badge&logo=figma&logoColor=FF6C37)
-![JMeter](https://img.shields.io/badge/-JMeter-E4E2E2?style=for-the-badge&logo=apachejmeter&logoColor=FF6C37)
+![Jira](https://img.shields.io/badge/-Jira-E4E2E2?style=for-the-badge&logo=jira&logoColor=2684FF)
+![Swagger](https://img.shields.io/badge/-SWAGGER-E4E2E2?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Python](https://img.shields.io/badge/-Python-E4E2E2?style=for-the-badge&logo=python&logoColor=336D9D)
+![TestRail](https://img.shields.io/badge/-TestRail-E4E2E2?style=for-the-badge&logo=testrail&logoColor=63BE78)
+![DevTools](https://img.shields.io/badge/-DevTools-E4E2E2?style=for-the-badge&logo=googlechrome&logoColor=4180F0)
+![MySQL](https://img.shields.io/badge/-MtSQL-E4E2E2?style=for-the-badge&logo=mysql&logoColor=00758F)
+![Git](https://img.shields.io/badge/-Git-E4E2E2?style=for-the-badge&logo=git&logoColor=F54D27)
+![GitHUB](https://img.shields.io/badge/-GitHUB-E4E2E2?style=for-the-badge&logo=github&logoColor=1F2328)
+![Docker](https://img.shields.io/badge/-Docker-E4E2E2?style=for-the-badge&logo=docker&logoColor=086DD7)
+![Figma](https://img.shields.io/badge/-Figma-E4E2E2?style=for-the-badge&logo=figma&logoColor=A259FF)
+![JMeter](https://img.shields.io/badge/-JMeter-E4E2E2?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-E4E2E2?style=for-the-badge&logo=fiddler&logoColor=FF6C37)
 ![Charles](https://img.shields.io/badge/-Charles-E4E2E2?style=for-the-badge&logo=charles&logoColor=FF6C37)
 
