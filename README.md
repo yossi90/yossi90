@@ -10,4 +10,4 @@
 ![Postman](https://img.shields.io/badge/-Postman-E4E2E2?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ### Follow me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E4E2E2?style=for-the-badge&logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/sergei-frolov-qa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E4E2E2?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sergei-frolov-qa)
