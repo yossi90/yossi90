@@ -5,7 +5,7 @@
 ---
 ### My CV:
 
-[Link to my CV](https://github.com/artichokeee/artichokeee)
+[Link to my CV](https://drive.google.com/file/d/1os6lBW49Pt-BgEblWOxmZWbp-aaXXRYz/view?usp=sharing)
 
 ---
 ### Languages and tools:
@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/-Python-E4E2E2?style=for-the-badge&logo=python&logoColor=336D9D)
 ![TestRail](https://img.shields.io/badge/-TestRail-E4E2E2?style=for-the-badge&logo=testrail&logoColor=63BE78)
 ![DevTools](https://img.shields.io/badge/-DevTools-E4E2E2?style=for-the-badge&logo=googlechrome&logoColor=4180F0)
-![MySQL](https://img.shields.io/badge/-MtSQL-E4E2E2?style=for-the-badge&logo=mysql&logoColor=00758F)
+![MySQL](https://img.shields.io/badge/-MySQL-E4E2E2?style=for-the-badge&logo=mysql&logoColor=00758F)
 ![Git](https://img.shields.io/badge/-Git-E4E2E2?style=for-the-badge&logo=git&logoColor=F54D27)
 ![GitHUB](https://img.shields.io/badge/-GitHUB-E4E2E2?style=for-the-badge&logo=github&logoColor=1F2328)
 ![Docker](https://img.shields.io/badge/-Docker-E4E2E2?style=for-the-badge&logo=docker&logoColor=086DD7)
