@@ -13,4 +13,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E4E2E2?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sergei-frolov-qa)
 
 
-[![Sergei Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/yossi90/github-readme-stats)
+[![Sergei Frolov's GitHub stats](https://github-readme-stats.vercel.app/api?username=yossi90&show_icons=true)](https://github.com/yossi90/github-readme-stats)
