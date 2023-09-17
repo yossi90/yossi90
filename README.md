@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-E4E2E2?style=for-the-badge&logo=figma&logoColor=A259FF)
 ![JMeter](https://img.shields.io/badge/-JMeter-E4E2E2?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-E4E2E2?style=for-the-badge&logo=fiddler&logoColor=FF6C37)
-![Charles](https://img.shields.io/badge/-Charles-E4E2E2?style=for-the-badge&logo=charles&logoColor=FF6C37)
+![CharlesProxy](https://img.shields.io/badge/-Charles_Proxy-E4E2E2?style=for-the-badge&logo=charlesproxy&logoColor=FF6C37)
 
 ---
 ### Socials:
