@@ -2,9 +2,11 @@
 
 ## I'm a beginner QA Engineer and Python Developer
 
-My CV
-[!Link to my CV](https://github.com/artichokeee/artichokeee)
+## My CV
 
-Languages and tools
+[Link to my CV](https://github.com/artichokeee/artichokeee)
+
+## Languages and tools
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 Follow me
