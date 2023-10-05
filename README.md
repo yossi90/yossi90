@@ -28,7 +28,7 @@
 
 ---
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E4E2E2?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sergei-frolov-qa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E4E2E2?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sergei-frolov-dev)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4E2E2?style=for-the-badge&logo=instagram&logoColor=FB15AC)](https://www.instagram.com/sergei_phrolov)
 [![Telegram](https://img.shields.io/badge/-Telegram-E4E2E2?style=for-the-badge&logo=telegram&logoColor=2481CC)](https://t.me/jumpse)
 
