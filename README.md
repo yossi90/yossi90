@@ -5,7 +5,7 @@
 ---
 ### My CV:
 
-[Link to my CV](https://drive.google.com/file/d/1os6lBW49Pt-BgEblWOxmZWbp-aaXXRYz/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1J7UjWr-qLgapE9rwZeiorHvpWgA4Bu1-/view?usp=sharing)
 
 ---
 ### Languages and tools:
